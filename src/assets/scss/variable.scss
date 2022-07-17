@@ -1,5 +1,24 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+$ld-bg-dark: #27292c;
+
+$ld-primary: #ff4545;
+$ld-secondary: #a09e9e;
+$ld-success: #1ee2ac;
+$ld-warning: #ffdd31;
+$ld-danger: #ff7750;
+$ld-info: #00d0ff;
+$ld-dark: #01041b;
+$ld-light: #ccced2;
+$ld-white: #ffffff;
+$ld-black: #4a525f;
+$ld-gray: #c2c2c2;
+$ld-close: #ff4e4e;
+$ld-search: #b4a4ff;
+
+$ld-primary-hover: #fa3a3a;
+$ld-secondary-hover: #5b5959;
+$ld-success-hover: #0ce1a6;
+$ld-warning-hover: #ffdb23;
+$ld-danger-hover: #f9663c;
+$ld-info-hover: #03b6de;
+$ld-dark-hover: #00020f;
+$ld-light-hover: #b8b9bc;
